@@ -271,10 +271,6 @@ footer {
     padding: 20px;
   }
 
-  .search{
-    display: none;
-  }
-
   .navList{
     flex-wrap: wrap;
   }
